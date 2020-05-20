@@ -1,0 +1,46 @@
+
+.heading {
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 8px;
+    background-color: #d3198c;
+    text-decoration-style: solid;
+    color: rgb(252, 247, 247);
+    text-align: center;
+}
+
+.heading2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 8px;
+    background-color: #C06C84;
+    text-decoration-style: solid;
+    color: rgb(15, 15, 15);
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.timeClass {
+    background-color: rgb(109, 117, 223);
+}
+
+.heading3 {
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 8px;
+    background-color: rgb(12, 243, 212);
+    text-decoration-style: solid;
+    color: rgb(15, 15, 15);
+    text-align: center;
+    /* width: 50%;  */
+}
+
+body {
+    background-image: url(maze2.png);
+}
