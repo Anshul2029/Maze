@@ -1,2 +1,2 @@
 # Maze
-A maze using Javascript and HTML
+A maze using HTML, CSS and Javascript
